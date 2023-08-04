@@ -2,7 +2,7 @@
 
 Below are the questions that are answered in this repository
 
-## Rubric
+## Questions
 
 1. Write code that extracts the article html from https://web.archive.org/web/20210327165005/https://hackaday.com/2021/03/22/how-laser-headlights-work/ and dumps it to a .pkl (or other appropriate file)
 
