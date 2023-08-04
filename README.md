@@ -1,5 +1,9 @@
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
+# Student Name: Garrett Kopp
+
+# Github Link: https://github.com/ggkopp/620_Module_6
+
 Below are the questions that are answered in this repository
 
 ## Questions
